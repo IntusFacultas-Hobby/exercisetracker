@@ -2,3 +2,8 @@ Django==3.1.4
 environ==1.0.0
 django-environ==0.4.5
 djangorestframework==3.12.2
+django-nested-inline==0.4.2
+
+# non-production requirements
+autopep8==1.5.4
+pycodestyle==2.6.0
